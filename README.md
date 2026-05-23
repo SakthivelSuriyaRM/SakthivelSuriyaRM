@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Sakthi 👋
 
-<!--
-**SakthivelSuriyaRM/SakthivelSuriyaRM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Electronics and Communications Engineering student at SASTRA Deemed University (Batch of 2028), interested in the intersection of **quantum communication**, **satellite systems**, and **cybersecurity**.
 
-Here are some ideas to get you started:
+## What I'm working on
+- Learning quantum communication fundamentals (QKD, BB84 protocol)
+- Studying for JLPT N3 (Japanese Language Proficiency Test)
+- Building a foundation in satellite communication and space cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Quantum key distribution and space-based quantum communication
+- Satellite and RF communication systems
+- Cybersecurity in space systems
+- JAXA and ISRO research programs
+
+## Currently learning
+- Quantum Computing (NPTEL)
+- Software Defined Radio (GNU Radio)
+- Japanese (日本語) — JLPT N4, working toward N3
+
+## Background
+- B.Tech ECE @ SASTRA Deemed University, Thanjavur
+- Elective: Cybersecurity
+- Exploring research in quantum communication for satellite networks
+
+---
+*Always open to connecting with people working in space systems, quantum tech, or Japanese aerospace research.*
